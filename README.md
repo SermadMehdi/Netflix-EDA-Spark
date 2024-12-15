@@ -11,6 +11,7 @@ The dataset used is [Netflix Movies and TV Shows](https://www.kaggle.com/dataset
 
 1. **Setup Environment**:
    - Run Apache Spark in Docker using the `bitnami/spark` image.
+   - Cmd command is available in output/screenshot folder
    - Install necessary Python libraries (`pyspark`, `pandas`, `matplotlib`, `seaborn`).
 
 2. **Run the Code**:
@@ -28,8 +29,7 @@ The dataset used is [Netflix Movies and TV Shows](https://www.kaggle.com/dataset
 
 4. **Results**:
    - Outputs are saved in the `output/` folder:
-     - Bar charts for type, ratings, and countries.
-     - Line chart for content addition over years.
+   - Screenshots are added in the folder
      - CSV files for further analysis.
 
 ## How to Use
